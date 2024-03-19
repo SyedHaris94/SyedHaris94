@@ -1,6 +1,6 @@
 ## Syed Haris Ali - MERN Stack Developer
 
-Welcome to my GitHub profile! I'm Syed Haris Ali, an aspiring web developer with a passion for coding and exploring new technologies. Currently, I'm actively engaged in projects involving JavaScript, Vue.js, and Node.js, while also expanding my skill set by learning Nest.js and React.js.
+Welcome to my GitHub profile! I'm Syed Haris Ali, an aspiring web developer with a passion for coding and exploring new technologies. Currently, I'm actively engaged in projects involving JavaScript, React.js, Vue.js, and Node.js, while also expanding my skill set by learning Typescript and Nest.js.
 
 ## 💫 About Me:
 👨‍💻 Coding Enthusiast<br>🌐 Mobile App Developer<br>🛠 MERN Stack Developer
