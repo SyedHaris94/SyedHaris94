@@ -1,6 +1,67 @@
-## Syed Haris Ali - MERN Stack Developer
+## Syed Haris Ali
+Senior Full-Stack Software Engineer with 6+ years of experience building, scaling, and operating modern web applications across the frontend and backend.
 
-Welcome to my GitHub profile! I'm Syed Haris Ali, an aspiring web developer with a passion for coding and exploring new technologies. Currently, I'm actively engaged in projects involving JavaScript, React.js, Vue.js, and Node.js, while also expanding my skill set by learning Typescript and Nest.js.
+I specialize in designing end-to-end systems — from intuitive, high-performance user interfaces to reliable, observable backend services running in distributed environments. I care deeply about why systems behave the way they do, not just how to assemble them.
+
+My interests include:
+
+Distributed systems & microservices
+
+Service-to-service communication and async workflows
+
+Frontend performance and state management
+
+Observability, reliability, and production readiness
+
+System design trade-offs across the full stack
+
+🛠️ Core Expertise
+
+Languages & Frameworks
+
+TypeScript, JavaScript
+
+Backend: Node.js, NestJS
+
+Frontend: React.js, Vue.js
+
+Backend & APIs
+
+REST, gRPC
+
+Microservices architecture
+
+Event-driven and asynchronous systems
+
+Datastores & Messaging
+
+PostgreSQL, Redis
+
+RabbitMQ (AMQP)
+
+Infrastructure & DevOps
+
+Docker, Kubernetes
+
+AWS
+
+CI/CD and containerized deployments
+
+Observability & Reliability
+
+Prometheus, Grafana, Loki
+
+Jaeger, OpenTelemetry
+
+Idempotency, retries, backoff, graceful shutdowns
+
+Architecture & Design
+
+Distributed systems
+
+Microservices & service boundaries
+
+Scalable, maintainable full-stack systems
 
 ## 💫 About Me:
 👨‍💻 Coding Enthusiast<br>🌐 Mobile App Developer<br>🛠 MERN Stack Developer
