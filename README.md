@@ -41,7 +41,7 @@ RabbitMQ (AMQP)
 
 Infrastructure & DevOps
 
-Docker, Kubernetes
+Docker
 
 AWS
 
@@ -51,10 +51,6 @@ Observability & Reliability
 
 Prometheus, Grafana, Loki
 
-Jaeger, OpenTelemetry
-
-Idempotency, retries, backoff, graceful shutdowns
-
 Architecture & Design
 
 Distributed systems
@@ -62,9 +58,6 @@ Distributed systems
 Microservices & service boundaries
 
 Scalable, maintainable full-stack systems
-
-## 💫 About Me:
-👨‍💻 Coding Enthusiast<br>🌐 Mobile App Developer<br>🛠 MERN Stack Developer
 
 
 ## 🌐 Socials:
